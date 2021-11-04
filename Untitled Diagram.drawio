@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-11-04T03:39:00.011Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="h6quxY5CBoP2_KhnmEeU" version="15.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-04T05:40:33.811Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="sqcVoHrHmaZ0G5r6uybX" version="15.5.7" type="github">
   <diagram id="pMExFTYcLv69h8y6yZpA" name="Page-1">
     <mxGraphModel dx="508" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="A8WVg59LF9ZsiPGN_pzD-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="350" y="130" width="100" height="60" as="geometry" />
+        <mxCell id="A8WVg59LF9ZsiPGN_pzD-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="260" y="170" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A8WVg59LF9ZsiPGN_pzD-2" value="媒体数据(作者,专题)" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" parent="1" vertex="1">
           <mxGeometry x="120" y="280" width="100" height="65" as="geometry" />
@@ -17,7 +17,13 @@
           <mxGeometry x="400" y="280" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="C1AYodGgT36gvcmngFwS-2" value="内容风险(重大事件, 算法打标)" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="1">
-          <mxGeometry x="520" y="280" width="100" height="65" as="geometry" />
+          <mxGeometry x="400" y="370" width="100" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="C1AYodGgT36gvcmngFwS-3" value="多级关键词" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="1">
+          <mxGeometry x="120" y="370" width="100" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="C1AYodGgT36gvcmngFwS-4" value="热度追踪(转赞评增加量)" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="1">
+          <mxGeometry x="260" y="370" width="100" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
